@@ -17,16 +17,6 @@ En quelques semaines : du code source confidentiel soumis pour correction, un co
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | Vert |
-| Données | Rouge |
-| Contrôle humain | Orange |
-| Équipe | Rouge |
-| Cadre | Rouge |
-
 ## Les leçons
 
 - Aucune malveillance : l'envie de bien faire
@@ -36,4 +26,4 @@ En quelques semaines : du code source confidentiel soumis pour correction, un co
 
 ## Source
 
-Presse économique et spécialisée, avril-mai 2023. État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Presse économique et spécialisée, avril-mai 2023.

@@ -17,16 +17,6 @@ Il annonce à un client un remboursement qui n'existe pas. La compagnie soutient
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | Vert |
-| Données | Orange |
-| Contrôle humain | Rouge |
-| Équipe | Orange |
-| Cadre | Rouge |
-
 ## Les leçons
 
 - L'entreprise répond de ses outils
@@ -36,4 +26,4 @@ Il annonce à un client un remboursement qui n'existe pas. La compagnie soutient
 
 ## Source
 
-Moffatt v. Air Canada, 2024 BCCRT 149. État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Moffatt v. Air Canada, 2024 BCCRT 149.

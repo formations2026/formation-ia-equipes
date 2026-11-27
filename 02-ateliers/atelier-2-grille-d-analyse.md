@@ -26,13 +26,3 @@
 2. Et dans vos propres usages ?
 3. Quelle action allez-vous engager en premier ?
 4. De qui avez-vous besoin pour avancer ?
-
-## Corrigé : le cas Amazon
-
-| Critère | Évaluation | Constat | Ce qu'il aurait fallu faire |
-|---|---|---|---|
-| Besoin | Vert | Trier un très grand volume de candidatures | Garder ce besoin, changer la solution |
-| Données | Rouge | Dix ans de CV majoritairement masculins | Auditer la représentativité avant d'entraîner |
-| Contrôle humain | Orange | Une note par étoiles, sans explication pour les recruteurs | Rendre la note explicable, former au biais d'automatisation |
-| Équipe | Orange | Projet mené par les ingénieurs | Associer les RH et des profils divers dès la conception |
-| Cadre | Rouge | Aucun test d'équité défini au départ | Fixer des tests d'équité et un droit à l'arrêt |

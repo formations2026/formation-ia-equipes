@@ -30,7 +30,7 @@
 3. Qu'allez-vous soumettre à la discussion de l'équipe ?
 4. Qui devez-vous consulter avant de la diffuser ?
 
-Le corrigé complet se trouve dans `06-boite-a-outils/charte-type.md`.
+Un exemple complet se trouve dans `06-boite-a-outils/charte-type.md`.
 
 ## Deuxième temps : traduire la charte pour l'assistant (10 min)
 
@@ -46,4 +46,4 @@ Le corrigé complet se trouve dans `06-boite-a-outils/charte-type.md`.
 | | | | |
 | | | | |
 
-Corrigé : `09-projet-lumen/assistant/garde-fous.md`. Modèles vierges : `10-modele-assistant-equipe/`.
+Exemple : `09-projet-lumen/assistant/garde-fous.md`. Modèles vierges : `10-modele-assistant-equipe/`.

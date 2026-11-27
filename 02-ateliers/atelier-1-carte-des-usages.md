@@ -30,16 +30,3 @@ Quadrants : **Automatiser** (fréquent, enjeu faible) · **Assister** (fréquent
 2. Un usage classé « à éviter » : pourquoi ?
 3. Qu'est-ce qui a été difficile à placer dans la matrice ?
 4. Quels sont vos 2 usages prioritaires ?
-
-## Corrigé : exemple d'une équipe RH
-
-| Tâche | Famille d'IA | Statut | Quadrant | Décision |
-|---|---|---|---|---|
-| Rédiger les offres d'emploi | Texte | Existant | Automatiser | Généraliser, relecture par sondage |
-| Répondre aux questions courantes des salariés | Texte | Envisagé | Assister | Pilote avec validation RH |
-| Transcrire et résumer les entretiens | Audio, texte | Envisagé | Assister | Accord des personnes requis |
-| Analyser l'enquête d'engagement | Texte, prédictif | Envisagé | Expérimenter | Test sur données anonymisées |
-| Présélectionner les candidatures | Prédictif | À éviter | Garder humain | Haut risque : pas sans cadre strict |
-| Annoncer une décision individuelle | — | À éviter | Garder humain | Relation humaine uniquement |
-
-Il n'y a pas de corrigé unique : la carte dépend du contexte. Vérifier la cohérence entre le quadrant et la décision.

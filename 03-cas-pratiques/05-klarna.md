@@ -17,16 +17,6 @@ L'entreprise annonce que l'assistant traite les deux tiers des conversations, so
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | Vert |
-| Données | Vert |
-| Contrôle humain | Orange |
-| Équipe | Rouge |
-| Cadre | Orange |
-
 ## Les leçons
 
 - Un gain de coût rapide n'est pas un succès durable
@@ -36,4 +26,4 @@ L'entreprise annonce que l'assistant traite les deux tiers des conversations, so
 
 ## Source
 
-Communiqué Klarna (février 2024), déclarations de son dirigeant (2025). État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Communiqué Klarna (février 2024), déclarations de son dirigeant (2025).

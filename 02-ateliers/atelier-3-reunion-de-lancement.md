@@ -32,14 +32,3 @@ Le manager lance, devant son équipe, l'usage prioritaire qu'il a choisi (atelie
 | L'équipe repart avec un rôle et une date | | | | |
 
 Retour à chaud : d'abord le manager, puis les participants, puis l'observateur. Des faits, pas des jugements.
-
-## Corrigé : ce qui fait la différence
-
-| Ce qui braque l'équipe | Ce qui embarque l'équipe |
-|---|---|
-| Commencer par l'outil et ses performances | Commencer par un irritant vécu par tous |
-| Répondre à chaque objection par un contre-argument | Reformuler l'objection avant d'y répondre |
-| Minimiser les craintes | Aller chercher la parole des silencieux |
-| Monopoliser la parole | Confier un rôle au sceptique : vérificateur |
-| Ne s'adresser qu'aux enthousiastes | Dire ce qui n'est pas négociable et ce qui l'est |
-| Repartir sans date ni rôles | Fixer ensemble le prochain point |

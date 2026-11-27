@@ -17,16 +17,6 @@ Dès 2023, un assistant interroge cette base documentaire validée et cite ses s
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | Vert |
-| Données | Vert |
-| Contrôle humain | Vert |
-| Équipe | Vert |
-| Cadre | Vert |
-
 ## Les leçons
 
 - Un besoin précis, vécu par les utilisateurs
@@ -36,4 +26,4 @@ Dès 2023, un assistant interroge cette base documentaire validée et cite ses s
 
 ## Source
 
-Communications de Morgan Stanley et d'OpenAI, 2023-2024. État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Communications de Morgan Stanley et d'OpenAI, 2023-2024.

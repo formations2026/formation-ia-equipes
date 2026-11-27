@@ -17,16 +17,6 @@ Méfiant, il est invité à une visioconférence où le directeur et plusieurs c
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | — |
-| Données | — |
-| Contrôle humain | Rouge |
-| Équipe | Orange |
-| Cadre | Rouge |
-
 ## Les leçons
 
 - Voir et entendre ne suffit plus
@@ -36,4 +26,4 @@ Méfiant, il est invité à une visioconférence où le directeur et plusieurs c
 
 ## Source
 
-Police de Hong Kong (février 2024), Arup (mai 2024). État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Police de Hong Kong (février 2024), Arup (mai 2024).

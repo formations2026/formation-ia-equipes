@@ -17,16 +17,6 @@ L'outil apprend à pénaliser des CV contenant le mot « women's ». Malgré des
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | Vert |
-| Données | Rouge |
-| Contrôle humain | Orange |
-| Équipe | Orange |
-| Cadre | Rouge |
-
 ## Les leçons
 
 - Les données du passé portent les biais du passé
@@ -36,4 +26,4 @@ L'outil apprend à pénaliser des CV contenant le mot « women's ». Malgré des
 
 ## Source
 
-Reuters, octobre 2018. État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Reuters, octobre 2018.

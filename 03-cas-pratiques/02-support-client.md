@@ -17,16 +17,6 @@ Un assistant suggère des réponses en temps réel à l'agent, libre de les util
 3. Quelle décision de management aurait changé l'issue ?
 4. Qu'est-ce que cela vous inspire pour votre propre usage prioritaire ?
 
-## Proposition de corrigé
-
-| Critère | Évaluation |
-|---|---|
-| Besoin | Vert |
-| Données | Vert |
-| Contrôle humain | Vert |
-| Équipe | Orange |
-| Cadre | Vert |
-
 ## Les leçons
 
 - L'IA suggère, l'agent décide
@@ -36,4 +26,4 @@ Un assistant suggère des réponses en temps réel à l'agent, libre de les util
 
 ## Source
 
-Brynjolfsson, Li, Raymond, « Generative AI at Work », NBER, 2023. État de vérification : voir `00-guide-formateur/verification-sources.md`.
+Brynjolfsson, Li, Raymond, « Generative AI at Work », NBER, 2023.

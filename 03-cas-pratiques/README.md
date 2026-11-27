@@ -1,6 +1,6 @@
 # Cas pratiques
 
-Huit cas réels à analyser avec la grille en 5 critères. Les évaluations sont des propositions de corrigé, à discuter.
+Huit cas réels à analyser avec la grille en 5 critères.
 
 | Cas | Type | Utilisé dans |
 |---|---|---|
