@@ -1,0 +1,15 @@
+﻿quiz;numero;question;A;B;C;reponse;explication
+jour1;1;Une IA générative produit ses réponses…;en consultant une base de faits vérifiés;en calculant la suite la plus probable;en appliquant des règles écrites par des experts;B;Plausible ne veut pas dire exact.
+jour1;2;Un outil de tri de candidatures est, selon le règlement européen…;à risque minimal;à risque limité;à haut risque;C;Emploi et gestion des salariés figurent parmi les usages à haut risque.
+jour1;3;Le chatbot de l'entreprise donne une information fausse à un client. Qui est responsable ?;L'éditeur du modèle;L'entreprise;Personne;B;Affaire Air Canada, 2024.
+jour1;4;L'obligation de favoriser la maîtrise de l'IA par ses équipes s'applique…;depuis février 2025;à partir de décembre 2027;uniquement aux éditeurs d'IA;A;Article 4 du règlement, en vigueur depuis le 2 février 2025.
+jour1;5;Selon les études, les gains de productivité sont les plus forts chez…;les plus experts;les moins expérimentés;les managers;B;L'IA diffuse les bonnes pratiques.
+jour1;6;Le premier facteur d'échec des projets d'IA est…;la puissance des modèles;le coût des licences;l'intégration dans l'organisation et les équipes;C;Les causes sont d'abord organisationnelles et humaines.
+final;1;Le rôle premier du manager dans l'intégration de l'IA est de…;maîtriser la technique;donner le sens, le cadre, les moyens et l'exemple;choisir le meilleur modèle;B;Sens, cadre, moyens, exemple.
+final;2;Face à un collaborateur inquiet pour son poste, la première chose à faire est de…;lui prouver qu'il a tort;reconnaître sa question et l'écouter;lui promettre que rien ne changera;B;Reconnaître avant d'argumenter.
+final;3;Dans le modèle ADKAR, former quelqu'un qui n'a pas envie…;suffit à le convaincre;ne sert à rien : il manque une marche;est la première étape;B;L'envie précède la connaissance.
+final;4;Les données RH individuelles dans un assistant d'IA, c'est…;vert;orange;rouge;C;Rouge : jamais, sauf dispositif validé.
+final;5;Une demande urgente et confidentielle de virement arrive en visioconférence. Vous…;exécutez : vous avez vu le directeur;confirmez par un autre canal, sur un numéro connu;demandez un courriel de confirmation;B;Un courriel peut venir du même fraudeur.
+final;6;L'injection de consigne consiste à…;cacher des instructions dans un contenu lu par l'IA;deviner le mot de passe d'un assistant;entraîner un modèle avec de fausses données;A;Des instructions cachées dans un contenu.
+final;7;Les trois pratiques de la confiance numérique sont…;rapidité, coût, performance;transparence, contrôle humain, traçabilité;interdiction, sanction, surveillance;B;Transparence, contrôle humain, traçabilité.
+final;8;Une bonne règle de charte est…;générale, pour tout couvrir;précise, avec un verbe d'action et un exemple;rédigée par le service juridique seul;B;Le test du lundi matin.
